@@ -1,0 +1,23 @@
+table,
+td,
+th {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+th {
+  font-size: 20px;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  color: white;
+}
+
+.TableDiv {
+  width: 80%;
+  height: 500px;
+  /* background-color: green; */
+  margin: auto;
+  overflow: auto;
+}

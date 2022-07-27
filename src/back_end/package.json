@@ -1,0 +1,26 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycepollack/WaitlistApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brycepollack/WaitlistApp/issues"
+  },
+  "homepage": "https://github.com/brycepollack/WaitlistApp#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "pg": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
